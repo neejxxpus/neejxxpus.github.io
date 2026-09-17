@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "50a503a7f1387a7af0ac61d3",
+  "owner": "neejxxpus",
+  "repo": "neejxxpus.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "a74ea89e164b36fe190ea365",
+      "a": "按摩院(Amy)",
+      "b": "官方发布页",
+      "entity": "按摩院(Amy)",
+      "brand": "官方发布页",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4d99872bd202a99289c7e1001e1662ecf6fd63234c20100ef8132a1434ea667c",
+      "content": {
+        "primary_entity": "按摩院(Amy)",
+        "keyword1": "按摩院(Amy)",
+        "keyword2": "官方发布页",
+        "content": {
+          "AI_DESCRIPTION": "，以分档套餐连接日常与进阶使用场景，从设备数量、流量额度与线路类型入手即可找到合适选项。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择套餐",
+          "AI_HERO_INTRO": "按摩院(Amy)提供三种月付或年付套餐，覆盖个人轻量使用到团队多设备并发场景。选择时先确认常用设备数量和每月流量需求，再比较线路类型与支持方式，即可完成订阅配置。",
+          "AI_VISUAL_TITLE": "套餐与设备匹配",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖单人至团队",
+          "AI_HIGHLIGHT_2": "按设备与流量快速对比",
+          "AI_HIGHLIGHT_3": "年付方式降低月均支出",
+          "AI_FEATURES_TITLE": "使用要点",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期展开，帮助访客快速判断适合的配置。",
+          "AI_FEATURE_TITLE_1": "先定设备数量",
+          "AI_FEATURE_TEXT_1": "不同套餐支持的设备数量不同，按常用设备数量选择更合适。",
+          "AI_FEATURE_TITLE_2": "再看流量额度",
+          "AI_FEATURE_TEXT_2": "按日常浏览、流媒体与下载需求选择对应流量档位的套餐。",
+          "AI_FEATURE_TITLE_3": "订阅周期可年付",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付方式降低月均支出，适合长期稳定使用的访客。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，在客户端内导入订阅信息即可连接使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数量与线路类型上各有侧重，按实际使用规模对比即可。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "按三步完成从选择到配置的过程，每一步都围绕实际使用需求展开。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版与团队版之间选定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与客户端支持情况，核对套餐包含的线路类型与设备数量。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅信息，完成后即可连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "可根据当期使用情况在套餐间调整，在账户设置中操作即可完成变更。",
+          "AI_FAQ_QUESTION_2": "同一账号能在多台设备使用吗？",
+          "AI_FAQ_ANSWER_2": "各套餐对应不同的设备数量上限，按当前套餐配置的设备范围使用即可。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月计费灵活调整，年付方式在总支出上更节省，适合长期稳定使用的访客。",
+          "AI_FAQ_QUESTION_4": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中按文档导入订阅信息，完成后即可连接使用，不同设备客户端操作略有差异。",
+          "AI_FAQ_QUESTION_5": "流量超出套餐额度会怎样？",
+          "AI_FAQ_ANSWER_5": "超出当月额度后连接可能受限，可等待下月重置或更换更高流量套餐。",
+          "AI_CLOSING_TITLE": "按需选套餐",
+          "AI_CLOSING_TEXT": "核对设备数量与流量需求后，选择合适的套餐并完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "db8ad214b1c51ffd545f060c4e911f753bd54f1af66bbce6ecd4916eaa9335be",
+    "sitemap.xml": "c9995c2ae6b71ddcd3ab8d6569c38c10940c87b17b97f1c895112a57aa6e7235",
+    "robots.txt": "4efe94c4edfe6c0689cb76123f78f596a9a19a387ade26357f5777606a9f16d7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "97940f8bec720d007110fed85ec2a26f6d12a1845792b148671cad830126f761"
+}
